@@ -1,2 +1,16 @@
-# school-website
-A student-built school website designed to practice front-end development and problem-solving skills. The project focuses on creating a clear structure, user-friendly layout, and responsive design while applying HTML, CSS, and basic JavaScript.
+# School Website
+
+This project is a student-built school website created to practice front-end development and problem-solving skills.
+
+## Features
+- Structured layout with navigation
+- School information and announcements
+- Simple and clean design
+
+## Technologies Used
+- HTML
+- CSS
+- Basic JavaScript (planned)
+
+## Purpose
+The goal of this project is to develop practical web development skills and understand how real-world websites are structured.
